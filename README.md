@@ -4,6 +4,7 @@
 <h3 align="center">I'm a Passionate Full-Stack Blockchain Developer from India.</h3>
 <br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rkvishnu&label=Profile%20views&color=0e75b6&style=flat" alt="Rkvishnu" /> </p>
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[web3-fundraising-dapp](https://web3-fundraiser-youtube.vercel.app/)**
