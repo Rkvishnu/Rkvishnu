@@ -58,6 +58,20 @@
     </a>
 </p>
 
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+
+<p align="center">
+<div align=center>
+  <a href="https://github.com/rkvishnu" title="Go to Profile">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=rkvishnu&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+
+
+[![@rkvishnu's Holopin board](https://holopin.io/api/user/board?user=rkvishnu)](https://holopin.io/@rkvishnu)
+
+
 ## 📊 My Github Stats
 
   <br/>
