@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rkvishnu&label=Profile%20views&color=0e75b6&style=flat" alt="Rkvishnu" /> </p>
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[web3-fundraising-dapp](https://web3-fundraiser-youtube.vercel.app/)**
+ 
 
 - 🌱 I’m currently learning **Blockchain Technology && Data Structures and Algorithms.**
 
