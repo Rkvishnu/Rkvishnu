@@ -71,7 +71,7 @@
 
 <!-- [![@rkvishnu's Holopin board](https://holopin.io/api/user/board?user=rkvishnu)](https://holopin.io/@rkvishnu) -->
 
-
+<!-- 
 ## 📊 My Github Stats
 
   <br/>
@@ -89,6 +89,7 @@
 
 <br/>
 <br/>
+ -->
 
 ## Connect with me:
 <p align="left">
