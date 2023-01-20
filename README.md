@@ -9,7 +9,7 @@
 
  
 
-- 🌱 I’m currently learning **Blockchain Technology && Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Blockchain Technology && Data Structures and Algorithms.*
 
 - 👯 I’m looking to collaborate on **OpenSource Blockchain Projects**
 
@@ -25,26 +25,26 @@
 <br/>
 <p align="left"> 
 
-<a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-shadow-tal-revivo.png"/> </a> 
- <a href="https://html.com/html5/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
+<a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/80/000000/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-shadow-tal-revivo.png"/> </a> 
+ <a href="https://html.com/html5/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/tailwindcss.png"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/nextjs.png"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/typescript.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/react-native.png"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/80/000000/nodejs.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/80/000000/python.png"/> </a>
      <br/>
-     <a href="https://linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a> 
+     <a href="https://linux.org/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/linux--v1.png"/> </a> 
       <a href="https://www.microsoft.com/software-download/windows11/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/windows8.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-     <a href="https://github.com/Rkvishnu" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github--v1.png"/> </a> 
-     <a href=" https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio--v1.png"/> </a> 
-      <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/nolan/64/android-studio--v2.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/css3.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/git.png"/> </a> 
+     <a href="https://github.com/Rkvishnu" target="_blank"> <img src="https://img.icons8.com/color/80/000000/github--v1.png"/> </a> 
+     <a href=" https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/visual-studio--v1.png"/> </a> 
+      <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/nolan/80/android-studio--v2.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/80/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/firebase.png"/> </a> 
      
 </p>
 
