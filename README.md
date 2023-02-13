@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi,I'm Vishnu </h1>
 <h3 align="center">I'm a Passionate Full-Stack Blockchain Developer from India.</h3>
@@ -12,11 +11,11 @@
 
 - 📫 How to reach me **vishnu.eps91@gmail.com**
 
-- ⚡ Fun fact **I play games like Cricket ,Football and go to the GYM very often.**
+- ⚡ Interest: **FInance,Cricket, Fitness,**
 <br/>
 <br/>
 
-## 🚀  Tech-Stakes I Use:
+<!-- ## 🚀  Tech-Stakes I Use:
 <br/>
 <p align="left"> 
 
@@ -42,7 +41,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/80/000000/firebase.png"/> </a> 
      
-</p>
+</p> -->
 
  <p align="center">
     <a href="https://github.com/Rkvishnu/github-readme-streak-stats">
