@@ -1,21 +1,20 @@
 
-<h1 align="center">Hi,I'm Vishnu </h1>
-<h3 align="center">I'm a Passionate Full-Stack Blockchain Developer from India.</h3>
+<h1 align="center">Hi,I'm Vishnu Rathore </h1>
+<h3 align="center">I'm a Aspiring Full-Stack Blockchain Developer and Web3 Enthusiast</h3>
 <br/>
 
 # About Me
 
-- 🌱 I’m currently learning **Blockchain Technology && Data Structures and Algorithms.*
+-I'm a skilled Full Stack Blockchain Developer and Web3 Enthusiast, proficient in Ethereum, Polygon, and Chainlink. I have expertise in Solidity, JavaScript, C++, ReactJs, NextJs, NodeJs, ExpressJs, TailwindCSS, and Styled Components. My experience includes smart contract development, DApp development, and blockchain architecture design.
+- Experienced in Tokens creation (ERC-20, ERC-721 , ERC-721A„ ERC1155, BEP20), Smart Contracts, NFTs, ICO,and Defi.
+- Using Solidity and Rust I have eveloped Dapp, Smart contracts, and NFT’s for Ethereum, Solana, and Polygon Blockchain.
 
-- 👯 I’m looking to collaborate on **OpenSource Blockchain Projects**
-
-- 📫 How to reach me **vishnu.eps91@gmail.com**
-
-- ⚡ Interest: **FInance,Cricket, Fitness,**
+-I'm also well-versed in DevOps methodologies, experienced with Git, Docker, AWS, Kubernetes, and Jenkins. With strong problem-solving and communication skills, I'm dedicated to delivering high-quality blockchain solutions that meet business needs.
+ 
 <br/>
 <br/>
 
-<!-- ## 🚀  Tech-Stakes I Use:
+<!-- ## 🚀 My Teck Stacks:
 <br/>
 <p align="left"> 
 
@@ -59,8 +58,6 @@
 </div>
 </p>
 
-<!-- 
- 
 
 ## Connect with me:
 <p align="left">
@@ -69,4 +66,4 @@
 <a href = "https://twitter.com/RkVishnu91"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rkvishnu779/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
  
-</p> -->
+</p> 
