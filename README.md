@@ -1,5 +1,5 @@
 <!-- ![Profile views](https://gpvc.arturio.dev/[Rkvishnu]) -->
-![image title](https://rushter.com/counter.svg)
+![image title](https://rushter.com/[Rkvisnu])
 <h1 align="center">Hi,I'm Vishnu Rathore </h1>
 <h3 align="center">I'm a Aspiring Full-Stack Blockchain Developer and Web3 Enthusiast</h3>
 <br/>
