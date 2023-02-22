@@ -1,5 +1,5 @@
-<!-- ![Profile views](https://gpvc.arturio.dev/[Rkvishnu]) -->
- ![counter](https://[Rkvishnu].m.pipedream.net)
+ https://komarev.com/ghpvc/?username=Rkvishnu
+ 
 <h1 align="center">Hi,I'm Vishnu Rathore </h1>
 <h3 align="center">I'm a Aspiring Full-Stack Blockchain Developer and Web3 Enthusiast</h3>
 <br/>
