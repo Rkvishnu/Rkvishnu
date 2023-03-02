@@ -76,6 +76,7 @@ I'm also well-versed in DevOps methodologies, experienced with Git, Docker, AWS,
   ![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=Rkvishnu&theme=dark&show_icons=true)
 </details>
 
+---
 [twitter]: https://twitter.com/RkVishnu91
 [instagram]: https://www.instagram.com/rkvishnu779/
 [linkedin]: https://www.linkedin.com/in/rkvishnu91/
