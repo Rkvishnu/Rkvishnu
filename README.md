@@ -17,6 +17,7 @@ I'm also well-versed in DevOps methodologies, experienced with Git, Docker, AWS,
 <br/>
 <br/>
 
+
 <!-- ## 🚀 My Teck Stacks:
 <br/>
 <p align="left"> 
@@ -45,6 +46,7 @@ I'm also well-versed in DevOps methodologies, experienced with Git, Docker, AWS,
      
 </p> -->
 
+
  <p align="center">
     <a href="https://github.com/Rkvishnu/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishnu Rathore's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rkvishnu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -62,11 +64,31 @@ I'm also well-versed in DevOps methodologies, experienced with Git, Docker, AWS,
 </p>
 
 
+<details>
+  <summary>:zap: Top Languages</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rkvishnu&layout=compact&langs_count=10)](https://github.com/Rkvishnu/github-readme-stats)
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+                                                        
+  ![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=Rkvishnu&theme=dark&show_icons=true)
+</details>
+
+[twitter]: https://twitter.com/RkVishnu91
+[instagram]: https://www.instagram.com/rkvishnu779/
+[linkedin]: https://www.linkedin.com/in/rkvishnu91/
+<!-- [facebook]: https://www.facebook.com/imahmedalibhatti/ -->
+[gmail]: mailto:vishnu.eps91@gmail.com
+[github]: https://github.com/Rkvishnu
+
+<!-- 
 ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/vishnu-rathore-619380202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/RkVishnu91"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/rkvishnu779/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
  
-</p> 
+</p>  -->
