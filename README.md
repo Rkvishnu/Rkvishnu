@@ -12,7 +12,7 @@ I'm a skilled Full Stack Blockchain Developer and Web3 Enthusiast, proficient in
 - Experienced in Tokens creation (ERC-20, ERC-721 , ERC-721A„ ERC1155, BEP20), Smart Contracts, NFTs, ICO,and Defi.
 - Using Solidity and Rust I have eveloped Dapp, Smart contracts, and NFT’s for Ethereum, Solana, and Polygon Blockchain.
 
-I'm also well-versed in DevOps methodologies, experienced with Git, Docker, AWS, Kubernetes, and Jenkins. With strong problem-solving and communication skills, I'm dedicated to delivering high-quality blockchain solutions that meet business needs.
+I'm also well-versed in DevOps methodologies, experienced with Git, Docker, AWS, and Jenkins. With strong problem-solving and communication skills, I'm dedicated to delivering high-quality blockchain solutions that meet business needs.
  
 <br/>
 <br/>
