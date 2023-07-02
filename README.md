@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Rkvishnu&color=green&style=flat&label=Visits) 
  
  
-<h1 align="center"> # Hi, I'm Vishnu Rathore 👋 </h1>
+<h1 align="center">  Hi, I'm Vishnu Rathore 👋 </h1>
 
 
 - I am a passionate Full Stack developer with practical experience in Web development, Blockchain, and DevOps.
