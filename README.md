@@ -6,7 +6,7 @@
 
 - I am a passionate Full Stack developer with practical experience in Web development, Blockchain, and DevOps.
 - I enjoy building innovative and impactful solutions that solve real-world problems.
-- My areas of skills and interest includes Backend Development with  NodeJs,ExpressJs ,MongoDB  && DevOps techStacks including Docker ,Jenkins,Kubernetes,Terraform and AWS,GCP .
+- My areas of skills and interest includes Backend Development with  NodeJs,ExpressJs ,MongoDB, MySQL  && DevOps techStacks including Docker ,Jenkins,Kubernetes,Terraform and AWS,GCP .
   
 <br/>
 
