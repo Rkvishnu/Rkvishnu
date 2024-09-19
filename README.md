@@ -36,16 +36,14 @@
 </details>
 
 ## 📫 Connect with Me
-
-- [Twitter][twitter]
-- [Instagram][instagram]
 - [LinkedIn][linkedin]
+- [Instagram][instagram]
 - [Email][gmail]
-
+- [Github][github]
+  
 ---
 
-[twitter]: https://twitter.com/RkVishnu91
-[instagram]: https://www.instagram.com/rkvishnu779/
 [linkedin]: https://www.linkedin.com/in/rkvishnu91/
+[instagram]: https://www.instagram.com/rkvishnu779/
 [gmail]: mailto:vishnu.eps91@gmail.com
 [github]: https://github.com/Rkvishnu
