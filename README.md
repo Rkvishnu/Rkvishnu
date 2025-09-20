@@ -119,12 +119,6 @@ vishnu:
 ### 💻 Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rkvishnu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF)](https://github.com/Rkvishnu/github-readme-stats)
 
-### 📈 Weekly Contribution Stats
-[![Vishnu's Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rkvishnu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF)](https://github.com/Rkvishnu/github-readme-stats)
-
-### 🏅 Repository Pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rkvishnu&repo=awesome-devops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF)](https://github.com/Rkvishnu/awesome-devops)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rkvishnu&repo=kubernetes-manifests&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF)](https://github.com/Rkvishnu/kubernetes-manifests)
 
 </div>
 
