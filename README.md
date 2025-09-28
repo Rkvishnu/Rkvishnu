@@ -136,33 +136,7 @@ vishnu:
 5. 📝 Updated documentation in [Rkvishnu/docker-compose-templates](https://github.com/Rkvishnu/docker-compose-templates)
 <!--END_SECTION:activity-->
 
----
-
-## 🎯 DevOps Goals for 2024
-
-- [ ] Master advanced Kubernetes patterns (Service Mesh, Operators, CRDs)
-- [ ] Achieve AWS/Azure/GCP professional certifications
-- [ ] Implement GitOps workflows across all projects
-- [ ] Build comprehensive monitoring and alerting systems
-- [ ] Contribute to 10+ open source DevOps tools
-- [ ] Implement security scanning and compliance automation
-- [ ] Design and deploy multi-cloud disaster recovery solutions
-- [ ] Mentor junior DevOps engineers and SREs
-
----
-
-## 💡 DevOps Fun Facts
-
-- 🐳 I containerize everything - even my coffee maker runs in Docker!
-- ☕ Coffee is my fuel - I can't deploy without it!
-- 🌱 I'm passionate about sustainable cloud computing and green infrastructure
-- 📚 Always learning something new - currently exploring Service Mesh and eBPF
-- 🎵 Music helps me focus while debugging (especially ambient techno)
-- 🔧 I believe in "Infrastructure as Code" so much that I version control my dotfiles
-- 🚀 I can spot a misconfigured YAML file from 10 feet away
-- 🎯 My favorite debugging tool is `kubectl describe` - it's like a crystal ball for Kubernetes
-
----
+ 
 
 
 
